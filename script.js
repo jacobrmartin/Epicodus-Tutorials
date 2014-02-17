@@ -4,4 +4,4 @@ function alertValue(value) {
 
 }
 
-alertValue(5);
+// alertValue(5);
